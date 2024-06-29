@@ -1,0 +1,29 @@
+<resources>
+    <string name = "app_name">LatihanModul5</string>
+    <string name = "merk_handphone">Merk Handphone</string>
+    <string name = "description">Deskripsi</string>
+    <string-array name = "data_name">
+        <item>Samsung Galaxy A03</item>
+        <item>Samsung Galaxy A51</item>
+        <item>Samsung S23</item>
+    </string-array>
+    <string-array name = "data_description">
+<item>Samsung Galaxy A03 adalah smartphone entry-level dengan fokus
+pada harga terjangkau. Menyediakan fitur dasar, desain kompak, dan sistem
+kamera yang dapat diandalkan, cocok bagi pengguna dengan anggaran
+terbatas.</item>
+        <item>Samsung Galaxy A51 adalah smartphone kelas menengah dengan
+desain ramping, layar Super AMOLED yang vibrant, dan sistem kamera
+serbaguna. Cocok bagi pengguna yang mencari keseimbangan antara performa
+dan harga.</item>
+        <item>Samsung S23 diantisipasi sebagai model flagship, mengikuti
+jejak seri premium S dari Samsung. Meskipun detail spesifik dapat
+bervariasi, kemungkinan akan menampilkan teknologi terkini, sistem kamera
+canggih, dan performa kelas atas.</item>
+    </string-array>
+    <integer-array name = "data_photo">
+        <item>@drawable/samsung_galaxya03</item>
+        <item>@drawable/samsung_galaxya51</item>
+        <item>@drawable/samsung_s23</item>
+    </integer-array>
+</resources>
